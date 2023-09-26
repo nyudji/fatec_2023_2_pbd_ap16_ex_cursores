@@ -1,4 +1,4 @@
-# Cursores em PDB (fatec_2023_2_pdb_ex_cursores)
+# Cursores em PBD (fatec_2023_2_pdb_ex_cursores)
 Essa atividade tem como o intuito de seguir a aula de programação em Banco de dados da Fatec Ipiranga. 
 Nesta aula estamos aprendemos sobre cursores em programação em banco de dados, Cursor não vinculado (unbound), Cursor vinculado (bound), Cursor com Parametros e  RBAR (Row By Agonizing Row).
 
